@@ -1,0 +1,119 @@
+[
+  {
+    "server": "139.28.235.243",
+    "server_port": "5722",
+    "password": "lncn.org 8ety",
+    "method": "rc4",
+    "remarks": "洛杉矶A",
+    "route": "bypass-lan-china",
+    "ipv6": true
+  },
+  {
+    "server": "139.28.235.84",
+    "server_port": "5722",
+    "password": "lncn.org 8ety",
+    "method": "rc4",
+    "remarks": "洛杉矶B",
+    "route": "bypass-lan-china",
+    "ipv6": true
+  },
+  {
+    "server": "45.82.255.115",
+    "server_port": "5722",
+    "password": "lncn.org 8ety",
+    "method": "rc4",
+    "remarks": "洛杉矶C",
+    "route": "bypass-lan-china",
+    "ipv6": true
+  },
+  {
+    "server": "45.12.109.134",
+    "server_port": "5722",
+    "password": "lncn.org 8ety",
+    "method": "rc4",
+    "remarks": "洛杉矶D",
+    "route": "bypass-lan-china",
+    "ipv6": true
+  },
+  {
+    "server": "45.12.109.111",
+    "server_port": "5722",
+    "password": "lncn.org 8ety",
+    "method": "rc4",
+    "remarks": "TEST",
+    "route": "bypass-lan-china",
+    "ipv6": true
+  },
+  {
+    "server": "45.144.2.51",
+    "server_port": "5722",
+    "password": "lncn.org l2u",
+    "method": "rc4",
+    "remarks": "莫斯科A",
+    "route": "bypass-lan-china",
+    "ipv6": true
+  },
+  {
+    "server": "45.147.201.168",
+    "server_port": "5722",
+    "password": "lncn.org l2u",
+    "method": "rc4",
+    "remarks": "莫斯科B",
+    "route": "bypass-lan-china",
+    "ipv6": true
+  },
+  {
+    "server": "85.117.234.98",
+    "server_port": "5722",
+    "password": "lncn.org l2u",
+    "method": "rc4",
+    "remarks": "莫斯科C",
+    "route": "bypass-lan-china",
+    "ipv6": true
+  },
+  {
+    "server": "45.144.2.186",
+    "server_port": "5722",
+    "password": "lncn.org l2u",
+    "method": "rc4",
+    "remarks": "莫斯科D",
+    "route": "bypass-lan-china",
+    "ipv6": true
+  },
+  {
+    "server": "45.147.200.237",
+    "server_port": "5722",
+    "password": "lncn.org 9uz",
+    "method": "rc4",
+    "remarks": "莫斯科I",
+    "route": "bypass-lan-china",
+    "ipv6": true
+  },
+  {
+    "server": "46.17.45.194",
+    "server_port": "5722",
+    "password": "lncn.org 9uz",
+    "method": "rc4",
+    "remarks": "莫斯科J",
+    "route": "bypass-lan-china",
+    "ipv6": true
+  },
+  {
+    "server": "45.135.134.205",
+    "server_port": "5722",
+    "password": "lncn.org 9uz",
+    "method": "rc4",
+    "remarks": "莫斯科K",
+    "route": "bypass-lan-china",
+    "ipv6": true
+  },
+  {
+    "server": "45.136.244.204",
+    "server_port": "5722",
+    "password": "lncn.org 9uz",
+    "method": "rc4",
+    "remarks": "莫斯科L",
+    "route": "bypass-lan-china",
+    "ipv6": true
+  }
+]

@@ -1,0 +1,30 @@
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>公益免费节点</title>
+        <script src="https://cdn.jsdelivr.net/clipboard.js/1.6.0/clipboard.min.js"></script>
+    </head>
+
+    <body>
+        <div>更新时间：${Date}</div>
+        <textarea style=" width:750px;height:170px;" id="bar">
+            ${Content}
+        </textarea><br>
+        <button class="btn" data-clipboard-action="copy" data-clipboard-target="#bar">复制到剪切板</button>
+        <script>
+            var btns = document.querySelectorAll('button');
+            var clipboard = new Clipboard(btns);
+
+            clipboard.on('success', function (e) {
+                e.clearSelection();
+                alert("内容复制成功");
+            });
+            
+            clipboard.on('error', function (e) {
+                // console.log(e);
+            });
+        </script>
+    </body>
+
+</html>
